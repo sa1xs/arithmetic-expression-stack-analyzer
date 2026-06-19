@@ -4,7 +4,6 @@ Java project that uses a custom stack with nodes to validate parentheses in arit
 
 ## Structure
 
-src/
 - Nodo.java
 - Pila.java
 - AnalizadorExpresiones.java
